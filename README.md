@@ -5,8 +5,8 @@
 
 [![blog](https://img.shields.io/badge/blog-rafaellcoellho.com-e0915f?style=flat-square)](https://rafaellcoellho.com/en/blog/)
 [![resume](https://img.shields.io/badge/resume-6a655c?style=flat-square)](https://rafaellcoellho.com/resume/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaellcoellho/)
-[![e-mail](https://img.shields.io/badge/e--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaellcoellho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/rafaellcoellho/)
+[![email](https://img.shields.io/badge/email-EA4335?style=flat-square)](mailto:rafaellcoellho@gmail.com)
 
 ### Now
 
