@@ -3,7 +3,7 @@
 [![blog](https://img.shields.io/badge/blog-rafaellcoellho.com-e0915f?style=flat-square)](https://rafaellcoellho.com/en/blog/)
 [![resume](https://img.shields.io/badge/resume-6a655c?style=flat-square)](https://rafaellcoellho.com/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/rafaellcoellho/)
-[![email](https://img.shields.io/badge/email-EA4335?style=flat-square)](mailto:rafaellcoellho@gmail.com)
+[![contact](https://img.shields.io/badge/contact-EA4335?style=flat-square)](mailto:rafaellcoellho@gmail.com)
 
 ### Now
 
