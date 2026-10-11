@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" alt="Rafael Coelho, software developer, back-end, Python">
-</picture>
+[![Stack](https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,docker,kubernetes,vue)](https://rafaellcoellho.com/resume/)
 
 [![blog](https://img.shields.io/badge/blog-rafaellcoellho.com-e0915f?style=flat-square)](https://rafaellcoellho.com/en/blog/)
 [![resume](https://img.shields.io/badge/resume-6a655c?style=flat-square)](https://rafaellcoellho.com/resume/)
